@@ -14,4 +14,4 @@ Once user is signed up, the user is directed to Welcome Screen.
 Everytime the user launches the app, he/she is presented with the Login Screen.
 
 ## Directory Structure
-![Directory Structure](<URL TO Image after it's uploaded>)
+![Directory Structure](https://github.com/AshutoshAJ/QuantumWallet/blob/master/directory_structure.PNG)
