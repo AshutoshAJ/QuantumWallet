@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">QuantumWallet</string>
+    <string name="wellcome_to_quantum_wallet">Wellcome to Quantum Wallet</string>
+    <string name="register_string">Please register in our application to\ncontinue work with your wallets</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="error_occurred">Error Occurred!</string>
+    <string name="user_name_cannot_be_empty">UserName cannot be empty!</string>
+    <string name="email_cannot_be_empty">Email cannot be empty!</string>
+    <string name="phone_cannot_be_empty">Phone cannot be empty!</string>
+    <string name="phone_number_cannot_be_less_than_10">Phone number cannot be less than 10</string>
+    <string name="password_cannot_be_empty">Password cannot be empty!</string>
+    <string name="hey">Hey</string>
+    <string name="explore_a_new_world">, explore a new world of offers and rewardz!</string>
+</resources>
